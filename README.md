@@ -1,1 +1,1 @@
-# alx-low_level_programming
+This is the first time writing c program
